@@ -1,0 +1,1 @@
+ /Users/ishitoyayuri/dev/prevent_female_disease/.dart_tool/flutter_build/2c0f67275bf28087926fe26f7e1a9eee/native_assets.yaml: 
