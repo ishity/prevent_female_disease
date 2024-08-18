@@ -14,10 +14,15 @@ class _MedicalRecordsScreenState extends State<MedicalRecordsScreen> {
       appBar: AppBar(
         title: const Text('MedicalRecords'),
       ),
-      body: const Center(
-        child: Text(
-          'MedicalRecords',
-          style: TextStyle(fontSize: 24),
+      body: Scaffold(
+        backgroundColor: Color(0xFFE1EFFB),
+        body: Container(
+          child: const Center(
+            child: Text(
+              'Notification',
+              style: TextStyle(fontSize: 24),
+            ),
+          ),
         ),
       ),
     );
